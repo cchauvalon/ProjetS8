@@ -8,7 +8,7 @@ for (i=0; i<tabTxt.length; i++)
 {
     elTxt[i] = document.createTextNode(tabTxt[i]);
 	document.body.appendChild(elTxt[i]); 
-	aaaa
+	
 }
 
 }
